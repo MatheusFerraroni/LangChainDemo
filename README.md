@@ -4,6 +4,7 @@
 
 To run:
 
+    export OPENAI_API_KEY=...
     pip install requirements.txt
     python main.py
 
