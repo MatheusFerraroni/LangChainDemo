@@ -8,3 +8,4 @@ langchainhub
 langchain-chroma
 bs4
 Flask
+flask-cors
